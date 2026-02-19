@@ -105,6 +105,6 @@ Finalize model comparison narrative: benchmark (FD001) vs constrained real-world
 **How to Run**
 
 1. The public project repository can be located at: https://github.com/Jonny802/Capstone-Assignment-20.1-Initial-Report-and-EDA
-2. Download the project files `Capstone_Assignment_20.1_Initial_Report_and_EDA_Jonathan_O'Dea.ipynb`, `train_FD001.txt` and `data_jan_2025_to_jan_2026`.csv locally
+2. Download the project files `Capstone_Assignment_20.1_Initial_Report_and_EDA_Jonathan_O'Dea.ipynb`, `train_FD001.txt` and `data_jan_2025_to_jan_2026.csv` locally
 3. Place the datasets inside a local /data folder
 4. Run cells top-to-bottom.
